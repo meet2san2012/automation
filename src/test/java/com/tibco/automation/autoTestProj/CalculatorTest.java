@@ -1,4 +1,4 @@
-/* this is the calculator test program  */
+/* this is the calculator test case  */
 
 package com.tibco.automation.autoTestProj;
 

@@ -1,3 +1,5 @@
+/* this is the calculator test program  */
+
 package com.tibco.automation.autoTestProj;
 
 import static org.junit.Assert.assertEquals;
